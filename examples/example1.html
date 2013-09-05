@@ -1,25 +1,25 @@
 <html>
-    <head>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-        <script src="../js/jquery.phonehighlight.js"></script>
-        
-        <link href="../css/style.css" rel="stylesheet" type="text/css" media="screen" />
-    </head>
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="../js/jquery.phonehighlight.js"></script>
     
-    <body>
-        <div style="text-align:center">
-        <div id="slide-content">
-            Hello world! This will be an awesome slider
-        </div>
-        </div>
-        
-        <script>           
-            jQuery('#slide-content').phoneHighlight({
-                onchange: function(text){
-                highlighted: [1,2],
-                    console.log(text);
-                }
-            });
-        </script>
-    </body>
+    <link href="../css/style.css" rel="stylesheet" type="text/css" media="screen" />
+  </head>
+  
+  <body>
+    <div style="text-align:center">
+    <div id="slide-content">
+      Hello world! This will be an awesome slider
+    </div>
+    </div>
+    
+    <script>       
+      jQuery('#slide-content').phoneHighlight({
+        onchange: function(text){
+        highlighted: [1,2],
+          console.log(text);
+        }
+      });
+    </script>
+  </body>
 </html>
