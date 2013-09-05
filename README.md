@@ -50,6 +50,10 @@ Callback
     </script>
 
 
+## Compatibility
+
+Tested with the latest versions of *Opera*, *Firefox* and *Chrome*. It most likely won't work with IE, but who knows
+
 ## Disclaimer
 
 This is my first jQuery plugin so be easy on me. Also props for Manon Dave to help him make his parents proud.
