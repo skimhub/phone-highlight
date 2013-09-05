@@ -50,3 +50,6 @@ Callback
     </script>
 
 
+## Disclaimer
+
+This is my first jQuery plugin so be easy on me
