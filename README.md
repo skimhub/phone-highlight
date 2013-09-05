@@ -52,4 +52,4 @@ Callback
 
 ## Disclaimer
 
-This is my first jQuery plugin so be easy on me
+This is my first jQuery plugin so be easy on me. Also props for Manon Dave to help him make his parents proud.
