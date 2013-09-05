@@ -52,7 +52,7 @@ Callback
 
 ## Compatibility
 
-Tested with the latest versions of *Opera*, *Firefox* and *Chrome*. It most likely won't work with IE, but who knows
+Tested with the latest versions of **Opera**, **Firefox** and **Chrome**. It most likely won't work with IE, but who knows
 
 ## Disclaimer
 
